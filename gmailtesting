@@ -1,0 +1,12 @@
+package com.suma.login;
+
+import org.testng.annotations.Test;
+
+public class Gmailtesting {
+		@Test
+		public void gmailtesting_login()
+		{
+			System.out.println("succesfully login");
+		}
+
+	}
